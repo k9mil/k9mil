@@ -3,7 +3,7 @@
 
 ### 🎯 Current
 
-I'm currently working on **[statum](https://github.com/k9mil/statum)** - it's a super easy to use website which allows anyone with a twitch account to get real-time data of their followed twitch streamers.
+I'm currently working on **[statum](https://github.com/k9mil/statum)** - it's a super easy to use website which allows anyone with a twitch account to get real-time data of their followed twitch streamers. I'm also currently learning [Go.](https://golang.org/)
 
 ### 🎨 Past Projects
 - 👁️ **[Oculus](https://github.com/k9mil/oculus)**, a scraper/monitor for analog cameras.
