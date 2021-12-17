@@ -12,6 +12,4 @@ I'm currently working on **[statum](https://github.com/k9mil/statum)** - it's a 
 
 ✉️ mail — [hi@kamil.codes](mailto:hi@kamil.codes)
 
-🔑 keybase — [pranked](https://keybase.io/pranked)  
-
 ![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
