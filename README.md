@@ -7,6 +7,7 @@ I'm currently working on **[statum](https://github.com/k9mil/statum)** — it's 
 
 ### 🎨 Past Projects
 - 👁️ **[Oculus](https://github.com/k9mil/oculus)**, a scraper/monitor for analog cameras.
+- 🦅 **[eagle](https://github.com/k9mil/eagle)**, a CLI-based application that displays StackOverflow answers.
 
 ### 📫 Contact
 
