@@ -12,6 +12,6 @@ I'm currently working on **[statum](https://github.com/k9mil/statum)** — it's 
 ### 📫 Contact
 
 ✉️ mail — [hi@kamil.codes](mailto:hi@kamil.codes)\
-💬 discord — 0RXyeFgXkoSChF7NjNis#1325
+💬 discord — 91216684026421418624#1325
 
 ![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
