@@ -1,4 +1,4 @@
-![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
+![line](https://github.com/k9mil/k9mil/blob/master/rgb_line.gif)
 ## Hey there, I'm Kamil 👋.
 
 ### 🎯 Current
@@ -15,4 +15,4 @@
 ✉️ mail — [hi@kamil.codes](mailto:hi@kamil.codes)\
 💬 discord — kamil#6666
 
-![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
+![line](https://github.com/k9mil/k9mil/blob/master/rgb_line.gif)
