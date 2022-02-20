@@ -14,6 +14,6 @@
 
 ✉️ mail — [hi@kamil.codes](mailto:hi@kamil.codes)\
 💬 discord — kamil#6666\
-🦜 twitter — k22mil
+🦜 twitter — alsokamil
 
 ![line](https://github.com/k9mil/k9mil/blob/master/rgb_line.gif)
