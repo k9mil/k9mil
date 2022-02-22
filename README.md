@@ -9,6 +9,7 @@
 - 👁️ **[Oculus](https://github.com/k9mil/oculus)**, a scraper/monitor for analog cameras.
 - 🦅 **[eagle](https://github.com/k9mil/eagle)**, a CLI-based application that displays StackOverflow answers.
 - 🗺️ **[statum](https://github.com/k9mil/statum)**, a Twitch dashboard with many unique features.
+- ⚡ **[kamil.codes](https://github.com/kamil-codes/kamil.codes)**, my personal website.
 
 ### Contact
 
