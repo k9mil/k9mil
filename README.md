@@ -13,5 +13,5 @@ Learning about interpreters.
 ## Contact
 
 ✉️ mail — [hi@kamil.codes](mailto:hi@kamil.codes)\
-💬 discord — kamil#6666\
+💬 discord — kamil#5294\
 🦜 twitter — alsokamil
