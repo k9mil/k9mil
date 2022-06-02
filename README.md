@@ -1,8 +1,4 @@
-# Hey there, I'm Kamil. 👋
-
-## Current
-
-Learning about interpreters.
+# Hey, I'm Kamil. 👋
 
 ## Past Projects
 - 🗺️ **[statum](https://github.com/k9mil/statum)**, a Twitch dashboard with many unique features.
