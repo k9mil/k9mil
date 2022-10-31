@@ -4,7 +4,7 @@ I'm a 21 year old software engineer and designer, striving to create unique and 
 
 ## Current
 
-Currently working part-time as a Software Engineer Intern @ [Badger](https://www.badgermapping.com/), and in my free time building [amigo](https://github.com/k9mil/amigo) — which makes it super easy for gamers to chat with like-minded people.
+Currently working part-time as a Software Engineer Intern @ [Badger](https://www.badgermapping.com/), and in my free time exploring the world of Microcontrollers.
 
 ## Past Projects
 - 🗺️ **[statum](https://github.com/k9mil/statum)**, a Twitch dashboard with many unique features.
@@ -16,5 +16,4 @@ Currently working part-time as a Software Engineer Intern @ [Badger](https://www
 
 The best way to reach me, is over [email](mailto:hi@kamil.codes), though feel free to contact me through alternative methods:
 
-💬 discord — kamil#6027\
-🦜 twitter — alsokamil
+💬 discord — kamil#6027
