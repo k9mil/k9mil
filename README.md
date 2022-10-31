@@ -4,7 +4,7 @@ I'm a 21 year old software engineer and designer, striving to create unique and 
 
 ## Current
 
-Currently working part-time as a Software Engineer Intern @ [Badger](https://www.badgermapping.com/), and in my free time exploring the world of Microcontrollers.
+Currently working part-time as a Software Engineer Intern @ [Badger](https://www.badgermapping.com/), where I help sales teams optimize their routes, and in my free time exploring the world of microcontrollers, specifically the Arduino.
 
 ## Past Projects
 - 🗺️ **[statum](https://github.com/k9mil/statum)**, a Twitch dashboard with many unique features.
