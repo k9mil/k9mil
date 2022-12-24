@@ -1,10 +1,10 @@
 ### Hey, I'm Kamil. 👋
 
-I'm a 21 year old software engineer and designer, striving to create unique and innovative solutions to modern-day problems.
+I'm a 22 year old software engineer and designer, striving to create unique and innovative solutions to modern-day problems.
 
 ## Current
 
-Currently working part-time as a Software Engineer Intern @ [Badger](https://www.badgermapping.com/), where I help sales teams optimize their routes, and in my free time exploring the world of microcontrollers, specifically the Arduino.
+Currently freelancing with [loopsio](https://loopsio.com/), where I work alongside other students & in my free time exploring the world of microcontrollers, specifically the Arduino.
 
 ## Past Projects
 - 🗺️ **[statum](https://github.com/k9mil/statum)**, a Twitch dashboard with many unique features.
@@ -14,6 +14,7 @@ Currently working part-time as a Software Engineer Intern @ [Badger](https://www
 
 ## Contact
 
-The best way to reach me, is over [email](mailto:hi@kamil.codes), though feel free to contact me through alternative methods:
+The best way to reach me, is to email me at [hi@kamil.codes](mailto:hi@kamil.codes), though feel free to contact me through alternative methods:
 
-💬 discord — kamil#6027
+💬 discord — kamil#6027 <br/>
+🔗 linkedin — [kamil](https://www.linkedin.com/in/kamilzak00/)
