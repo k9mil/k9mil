@@ -16,5 +16,5 @@ Currently, I am freelancing with [loopsio](https://loopsio.com/), a dynamic, stu
 
 The best way to reach me, is to email me at [hi@kamil.codes](mailto:hi@kamil.codes), though feel free to contact me through alternative methods:
 
-💬 discord — kamil#6027 <br/>
+💬 discord — kamilzak00 <br/>
 🔗 linkedin — [kamil](https://www.linkedin.com/in/kamilzak00/)
