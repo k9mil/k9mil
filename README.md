@@ -1,6 +1,6 @@
 ### Hey, I'm Kamil. 👋
 
-I'm a 22 year old software engineer and designer, striving to create unique and innovative solutions to modern-day problems.
+I'm a 23 year old software engineer and designer, striving to create unique and innovative solutions to modern-day problems.
 
 ## Current
 
