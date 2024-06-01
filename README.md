@@ -1,10 +1,10 @@
-### Hey, I'm Kamil. 👋
+### Hi, I'm Kamil. 👋
 
-I'm a 23 year old software engineer and designer, striving to create unique and innovative solutions to modern-day problems.
+I'm a 23 year old full-stack software engineer and designer, striving to create unique and innovative solutions to modern-day problems. I accomplish this mostly by working with Python, TypeScript, React and Tailwind.
 
 ## Current
 
-Currently, I am freelancing with [loopsio](https://loopsio.com/), a dynamic, student-driven tech agency, where I liaise with clients to engineer bespoke software solutions.
+Currently, I am working with [loopsio](https://loopsio.com/), a dynamic, student-driven tech agency, where I liaise with clients to engineer bespoke software solutions.
 
 ## Contact
 
