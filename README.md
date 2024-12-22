@@ -1,10 +1,10 @@
 # Hi, I'm Kamil. 👋
 
-I'm a 23 year old full-stack software engineer and designer, striving to create unique and innovative solutions to modern-day problems. I accomplish this mostly by working with Python, TypeScript, React and Tailwind.
+I'm a 24 year old full-stack software engineer and designer, striving to create unique and innovative solutions to modern-day problems. I accomplish this mostly by working with Python, TypeScript, React and Tailwind.
 
 ## Current
 
-Currently, I am working at [Barclays](https://home.barclays/), a multinational universal bank where I develop robust distribution mechanisms across the organisation.
+Currently, I am working at [Barclays](https://home.barclays/), a multinational universal bank where I work on our core data platform — a critical system serving as the single source of truth across the bank, with a focus on modernising the platform.
 
 ## Contact
 
