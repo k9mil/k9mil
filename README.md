@@ -4,7 +4,7 @@ I'm a 24 year old full-stack software engineer and designer, striving to create 
 
 ## Current
 
-Currently, I am working at [Barclays](https://home.barclays/), a multinational universal bank where I work on a greenfield payment tracking initiative — a critical system providing real-time visibility across financial systems, with a focus on establishing centralised payment operations intelligence.
+I'm working at [Barclays](https://home.barclays/), a multinational universal bank where I work on a greenfield payment tracking initiative — a critical system providing real-time visibility across financial systems, with a focus on establishing centralised payment operations intelligence.
 
 In my free time I'm building [allocate](https://github.com/allocate-planner), an AI-powered voice-first day planning platform with deep development tool integrations.
 
