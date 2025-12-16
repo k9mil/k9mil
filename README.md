@@ -1,6 +1,6 @@
 # Hi, I'm Kamil. 👋
 
-I'm a 24 year old full-stack software engineer and designer, striving to create unique and innovative solutions to modern-day problems. I accomplish this mostly by working with Python, TypeScript, React and Tailwind.
+I’m a 24-year-old full-stack software engineer working largely on web systems across backend, infrastructure, and frontend. My work centres on system architecture and building scalable, maintainable systems. I primarily work with Python, TypeScript, React, and AWS.
 
 ## Current
 
