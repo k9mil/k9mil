@@ -1,6 +1,6 @@
 # Hi, I'm Kamil. 👋
 
-I’m a 24-year-old full-stack software engineer working largely on web systems across backend, infrastructure, and frontend. My work centres on system architecture and building scalable, maintainable systems. I primarily work with Python, TypeScript, React, and AWS.
+I’m a 25-year-old full-stack software engineer working largely on web systems across backend, infrastructure, and frontend. My work centres on system architecture and building scalable, maintainable systems. I primarily work with Python, TypeScript, React, and AWS.
 
 ## Current
 
