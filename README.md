@@ -12,5 +12,4 @@ In my free time I'm building [allocate](https://github.com/allocate-planner), an
 
 The best way to reach me, is to email me at [hi@kamil.codes](mailto:hi@kamil.codes), though feel free to contact me through alternative methods:
 
-💬 discord — kamilzak00 <br/>
 🔗 linkedin — [kamil](https://www.linkedin.com/in/kamilzak00/)
