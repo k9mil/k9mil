@@ -10,4 +10,4 @@ In my free time I'm building [allocate](https://github.com/allocate-planner), a 
 
 ## Contact
 
-The best way to reach me, is to email me at [hi@kamil.codes](mailto:hi@kamil.codes), though feel free to contact me through [LinkedIn](https://www.linkedin.com/in/kamilzak00/).
+The best way to reach me is to email me at [hi@kamil.codes](mailto:hi@kamil.codes), though feel free to contact me through [LinkedIn](https://www.linkedin.com/in/kamilzak00/).
