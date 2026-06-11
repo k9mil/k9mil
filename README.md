@@ -6,7 +6,7 @@ I’m a 25-year-old full-stack software engineer working largely on web systems 
 
 I'm working at [Barclays](https://home.barclays/), a multinational universal bank where I work on a greenfield payment tracking initiative, a critical system providing real-time visibility across financial systems, with a focus on establishing centralised payment operations intelligence.
 
-In my free time I'm building [allocate](https://github.com/allocate-planner), a calendar product built around an LLM pipeline that turns unstructured speech into scheduled, context-enriched events. I'm also working on [pail](https://github.com/k9mil/pail), a durable job queue with first-class queryable job state, implemented purely on S3.
+In my free time I'm building [allocate](https://github.com/allocate-planner), a calendar web product with a custom LLM pipeline that turns unstructured speech into scheduled, context-enriched events. I'm also working on [pail](https://github.com/k9mil/pail), a durable job queue with first-class queryable job state, implemented entirely on S3.
 
 ## Contact
 
